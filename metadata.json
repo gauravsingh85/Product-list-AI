@@ -1,0 +1,8 @@
+{
+  "name": "Sell Live AI Assistant",
+  "description": "A smart e-commerce tool that lets sellers list products by going live. The app captures photos and audio, then uses AI to generate a professional product image and a structured JSON description, supporting various Indian languages.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
